@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      Currently under development!
+      Currently under development
     </div>
   )
 }
